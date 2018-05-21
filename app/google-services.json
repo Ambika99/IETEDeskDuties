@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543710737766",
+    "firebase_url": "https://iete-desk-duties-771f2.firebaseio.com",
+    "project_id": "iete-desk-duties-771f2",
+    "storage_bucket": "iete-desk-duties-771f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543710737766:android:48f02f341c21aef4",
+        "android_client_info": {
+          "package_name": "ambika.android.com.ietedeskduties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543710737766-v7tcvus7ap2mt4r7536kk4fdk3k8h18q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CUyhdH0r8fII7fMCiRJYe7yY-KZybho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

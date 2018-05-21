@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IETE Desk Duties</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">list</string>
+    <string name="title_activity_first_page">first_page</string>
+    <string name="title_activity_slots">slots</string>
+    <string name="title_activity_save">save</string>
+</resources>
